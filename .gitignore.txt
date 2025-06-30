@@ -1,3 +1,4 @@
+*.txt
 # Ignore node_modules (common in Node.js projects)
 node_modules/
 
@@ -20,4 +21,4 @@ Thumbs.db
 .vscode/
 .idea/
 
-*.txt
+
